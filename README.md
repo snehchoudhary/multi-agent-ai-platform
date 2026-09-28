@@ -2,7 +2,7 @@
 
 A production-oriented AI platform that automates research and document-intelligence workflows using multiple specialized agents. Instead of relying on a single LLM call, it uses **LangGraph** to orchestrate agents that retrieve, analyze, and synthesize information from user-uploaded documents through a **RAG pipeline** backed by **Qdrant**.
 
-**Live Demo:** [YOUR-APP-LINK](https://YOUR-APP-LINK) | **Tech:** React, Node.js, LangGraph, Qdrant, Redis, Docker, AWS
+**Live Demo:** [APP-LINK](https://multi-agent-ai-platform-pb2a.onrender.com/) | **Tech:** React, Node.js, LangGraph, Qdrant, Redis, Docker, AWS
 
 ## Features
 
